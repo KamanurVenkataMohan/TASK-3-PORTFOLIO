@@ -16,7 +16,4 @@
 
 ##OUTPUT
 
-![Image](https://github.com/user-attachments/assets/0768575a-6fe4-4363-94cc-448d51993872)
-
-
-<img width="336" height="742" alt="Image" src="https://github.com/user-attachments/assets/d27dace7-0526-4b4c-8c3d-95c4310dc311" />
+<img width="1352" height="610" alt="Image" src="https://github.com/user-attachments/assets/9b1a507e-02e1-4e0d-b37d-17630a6a5f3a" />
