@@ -13,3 +13,10 @@
 *MENTOR*: NEELA SANTOSH
 
 ## I HAVE DONE A PORTFOLIO WEBSITE USING HTML AND CSS WHERE I HAVE GIVEN MY COMPLETE PROFILE ABOUT MY EDUCATION BACKGROUND, WHAT PROJECTS I HAVE DONE.
+
+##OUTPUT
+
+![Image](https://github.com/user-attachments/assets/0768575a-6fe4-4363-94cc-448d51993872)
+
+
+<img width="336" height="742" alt="Image" src="https://github.com/user-attachments/assets/d27dace7-0526-4b4c-8c3d-95c4310dc311" />
